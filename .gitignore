@@ -3,3 +3,8 @@
 ################################################################################
 
 /AppCenter/AppCenter/obj
+/AppCenter/AppCenter.Android/obj
+/AppCenter/AppCenter.iOS/obj
+/AppCenter/AppCenter.Android/bin/Debug
+/AppCenter/AppCenter.iOS/bin/iPhone/Debug
+/AppCenter/AppCenter/bin/Debug/netstandard2.0
